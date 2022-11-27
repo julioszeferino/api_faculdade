@@ -1,4 +1,4 @@
-# Projeto Criacao de uma API com o Framework FastAPI
+# Projeto API Faculdade
 
 
 ## Arquitetura do Projeto
