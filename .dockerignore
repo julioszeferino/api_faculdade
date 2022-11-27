@@ -1,0 +1,9 @@
+.gitignore
+mkdocs.yml
+quick-notes.mkdocs
+README.md
+docker/
+__pycache__
+*.pyc
+docs/
+
